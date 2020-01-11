@@ -1,0 +1,23 @@
+{
+  "name": "proj-1",
+  "version": "1.0.0",
+  "description": "<br> Social Media Site",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtmtdrv/bootstrap4-proj1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtmtdrv/bootstrap4-proj1/issues"
+  },
+  "homepage": "https://rtmtdrv.github.io/proj-1",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
