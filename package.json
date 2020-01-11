@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/rtmtdrv/bootstrap4-proj1/issues"
   },
-  "homepage": "https://rtmtdrv.github.io/proj-1",
+  "homepage": "https://rtmtdrv.github.io/bootstrap4-proj1",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
