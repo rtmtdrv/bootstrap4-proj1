@@ -1,7 +1,7 @@
 {
-  "name": "proj-1",
+  "name": "proj1",
   "version": "1.0.0",
-  "description": "<br> Social Media Site",
+  "description": "Social Media Site",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
